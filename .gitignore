@@ -35,6 +35,7 @@ client_secret_1006107884119-on202jc16mbdtf0ph0ghn5rdd8elp6f1.apps.googleusercont
 
 # OS files
 .DS_Store
+**/.DS_Store
 Thumbs.db
 
 # Logs
